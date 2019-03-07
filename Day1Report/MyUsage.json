@@ -1,0 +1,123 @@
+[
+  {
+    "source": "Environemnt is ready",
+    "steps": [
+      {
+        "name": "Environemnt is ready",
+        "aggregatedDurations": {
+          "average": 4.719508787,
+          "median": 4.719508787
+        },
+        "durations": [
+          {
+            "duration": 4.719508787,
+            "location": "Features/AllConcepts.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Test Ended",
+    "steps": [
+      {
+        "name": "Test Ended",
+        "aggregatedDurations": {
+          "average": 0.003577602,
+          "median": 0.003577602
+        },
+        "durations": [
+          {
+            "duration": 0.003577602,
+            "location": "Features/AllConcepts.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "search {string} keyword",
+    "steps": [
+      {
+        "name": "search \"Lap-top\" keyword",
+        "aggregatedDurations": {
+          "average": 2.639004432,
+          "median": 2.639004432
+        },
+        "durations": [
+          {
+            "duration": 2.639004432,
+            "location": "Features/AllConcepts.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the browser",
+    "steps": [
+      {
+        "name": "Close the browser",
+        "aggregatedDurations": {
+          "average": 3.810848773,
+          "median": 3.810848773
+        },
+        "durations": [
+          {
+            "duration": 3.810848773,
+            "location": "Features/AllConcepts.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "print {string} on the console.",
+    "steps": [
+      {
+        "name": "print \"Muhtar\" on the console.",
+        "aggregatedDurations": {
+          "average": 0.002029228,
+          "median": 0.002029228
+        },
+        "durations": [
+          {
+            "duration": 0.002029228,
+            "location": "Features/AllConcepts.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "print \"Mahmut\" on the console.",
+        "aggregatedDurations": {
+          "average": 0.002220801,
+          "median": 0.002220801
+        },
+        "durations": [
+          {
+            "duration": 0.002220801,
+            "location": "Features/AllConcepts.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "got to the Website {string}",
+    "steps": [
+      {
+        "name": "got to the Website \"https://www.google.com\"",
+        "aggregatedDurations": {
+          "average": 1.554983916,
+          "median": 1.554983916
+        },
+        "durations": [
+          {
+            "duration": 1.554983916,
+            "location": "Features/AllConcepts.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]

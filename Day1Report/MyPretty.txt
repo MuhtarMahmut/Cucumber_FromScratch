@@ -1,0 +1,12 @@
+@1
+Feature: All Tests
+
+  @1
+  Scenario: Google Search                            [90m# Features/AllConcepts.feature:4[0m
+    [32mGiven [0m[32mEnvironemnt is ready[0m                       [90m# SearchStep.environemnt_is_ready()[0m
+    [32mWhen [0m[32mgot to the Website [0m[32m[1m"https://www.google.com"[0m [90m# SearchStep.got_to_the_Website(String)[0m
+    [32mAnd [0m[32msearch [0m[32m[1m"Lap-top"[0m[32m keyword[0m                     [90m# SearchStep.search_keyword(String)[0m
+    [32mThen [0m[32mClose the browser[0m                           [90m# SearchStep.close_the_browser()[0m
+    [32m* [0m[32mTest Ended[0m                                     [90m# SearchStep.test_Ended()[0m
+    [32mBut [0m[32mprint [0m[32m[1m"Muhtar"[0m[32m on the console.[0m               [90m# SearchStep.print_on_the_console(String)[0m
+    [32mThen [0m[32mprint [0m[32m[1m"Mahmut"[0m[32m on the console.[0m              [90m# SearchStep.print_on_the_console(String)[0m

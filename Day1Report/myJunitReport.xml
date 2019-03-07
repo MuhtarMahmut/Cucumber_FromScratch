@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.755205">
+<testcase classname="All Tests" name="Google Search" time="12.755205">
+<system-out><![CDATA[Given Environemnt is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Lap-top" keyword................................................passed
+Then Close the browser......................................................passed
+* Test Ended................................................................passed
+But print "Muhtar" on the console...........................................passed
+Then print "Mahmut" on the console..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
