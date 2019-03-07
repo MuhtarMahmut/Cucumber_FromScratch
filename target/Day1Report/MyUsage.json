@@ -1,0 +1,199 @@
+[
+  {
+    "source": "Environemnt is ready",
+    "steps": [
+      {
+        "name": "Environemnt is ready",
+        "aggregatedDurations": {
+          "average": 3.020531635,
+          "median": 2.696526804
+        },
+        "durations": [
+          {
+            "duration": 4.737665595,
+            "location": "Features/DDT.feature:24"
+          },
+          {
+            "duration": 2.584463182,
+            "location": "Features/DDT.feature:24"
+          },
+          {
+            "duration": 2.688725201,
+            "location": "Features/DDT.feature:24"
+          },
+          {
+            "duration": 2.772116809,
+            "location": "Features/DDT.feature:24"
+          },
+          {
+            "duration": 2.704328408,
+            "location": "Features/DDT.feature:24"
+          },
+          {
+            "duration": 2.635890618,
+            "location": "Features/DDT.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "search {string} keyword",
+    "steps": [
+      {
+        "name": "search \u0027Lap-top\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 2.644464488,
+          "median": 2.644464488
+        },
+        "durations": [
+          {
+            "duration": 2.644464488,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      },
+      {
+        "name": "search \u0027Potato\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 3.154850199,
+          "median": 3.154850199
+        },
+        "durations": [
+          {
+            "duration": 3.154850199,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      },
+      {
+        "name": "search \u0027Computer\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 2.618809864,
+          "median": 2.618809864
+        },
+        "durations": [
+          {
+            "duration": 2.618809864,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      },
+      {
+        "name": "search \u0027Ipad\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 2.726821004,
+          "median": 2.726821004
+        },
+        "durations": [
+          {
+            "duration": 2.726821004,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      },
+      {
+        "name": "search \u0027Iphone\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 2.675203275,
+          "median": 2.675203275
+        },
+        "durations": [
+          {
+            "duration": 2.675203275,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      },
+      {
+        "name": "search \u0027samsung\u0027 keyword",
+        "aggregatedDurations": {
+          "average": 2.371733919,
+          "median": 2.371733919
+        },
+        "durations": [
+          {
+            "duration": 2.371733919,
+            "location": "Features/DDT.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the browser",
+    "steps": [
+      {
+        "name": "Close the browser",
+        "aggregatedDurations": {
+          "average": 3.807877678,
+          "median": 3.811934
+        },
+        "durations": [
+          {
+            "duration": 3.81249528,
+            "location": "Features/DDT.feature:27"
+          },
+          {
+            "duration": 3.849411349,
+            "location": "Features/DDT.feature:27"
+          },
+          {
+            "duration": 3.797360127,
+            "location": "Features/DDT.feature:27"
+          },
+          {
+            "duration": 3.81137272,
+            "location": "Features/DDT.feature:27"
+          },
+          {
+            "duration": 3.821766324,
+            "location": "Features/DDT.feature:27"
+          },
+          {
+            "duration": 3.754860269,
+            "location": "Features/DDT.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "got to the Website {string}",
+    "steps": [
+      {
+        "name": "got to the Website \u0027https://www.google.com\u0027",
+        "aggregatedDurations": {
+          "average": 1.945393398,
+          "median": 1.484550393
+        },
+        "durations": [
+          {
+            "duration": 4.239192849,
+            "location": "Features/DDT.feature:25"
+          },
+          {
+            "duration": 1.491359356,
+            "location": "Features/DDT.feature:25"
+          },
+          {
+            "duration": 1.47774143,
+            "location": "Features/DDT.feature:25"
+          },
+          {
+            "duration": 1.469933427,
+            "location": "Features/DDT.feature:25"
+          },
+          {
+            "duration": 1.465208518,
+            "location": "Features/DDT.feature:25"
+          },
+          {
+            "duration": 1.528924812,
+            "location": "Features/DDT.feature:25"
+          }
+        ]
+      }
+    ]
+  }
+]
