@@ -17,3 +17,27 @@
       | Ipad      |
       |Iphone     |
       |samsung    |
+
+
+      @DDT2
+      Scenario Template: Google Searches3
+        Given Environemnt is ready
+        When got to the Website 'https://www.google.com'
+        And search '<NewSearch>' keyword
+        Then Close the browser
+
+        Examples:
+        | NewSearch|
+        | Lap-top   |
+        | Potato    |
+        | Computer  |
+        | Ipad      |
+        |Iphone     |
+        |samsung    |
+
+
+
+
+
+
+

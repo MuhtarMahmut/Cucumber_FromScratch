@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "Features" ,
                 glue = "TestSteps",
-                tags = "@DDT",
+                tags = "@DDT2",
         dryRun = false,
         plugin = {"html:target/Day1Report" ,
                 "junit:target/Day1Report/myJunitReport.xml" ,
