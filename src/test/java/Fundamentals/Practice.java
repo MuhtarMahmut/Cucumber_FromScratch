@@ -13,7 +13,8 @@ import org.junit.runner.RunWith;
         plugin = {"html:target/Day1Report" ,
                 "junit:target/Day1Report/myJunitReport.xml" ,
                         "pretty:target/Day1Report/MyPretty.txt",
-                "usage:target/Day1Report/MyUsage.json"
+                "usage:target/Day1Report/MyUsage.js"
+
         }
 )
 public class Practice {
